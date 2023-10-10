@@ -41,6 +41,9 @@ img {
     padding: 10px;
 }
 @media (max-width: 750px) {
+  #background-video {
+    display: none;
+  }
     body {
       background: url("Kuva1.png") no-repeat;
       background-size: cover;
