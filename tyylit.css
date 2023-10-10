@@ -45,7 +45,7 @@ img {
     display: none;
   }
     body {
-      background: url("Kuva1.png") no-repeat;
+      background: url("material/Kuva1.png") no-repeat;
       background-size: cover;
       background-attachment: fixed;
       font-size: smaller;
